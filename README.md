@@ -1,6 +1,6 @@
 # slexphp/serialization-contracts
 
-PHP Serialization Interfaces
+PHP Serialization Contracts
 
 ## Requirements
 
